@@ -1,0 +1,12 @@
+
+> react-native-finger-library@0.1.0 prepack
+> bob build
+
+error: unknown command 'build'. See 'bob --help'.
+npm ERR! code 1
+npm ERR! path /Users/thanhminh/Desktop/RN/finger-library
+npm ERR! command failed
+npm ERR! command sh -c -- bob build
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/thanhminh/.npm/_logs/2023-02-28T09_36_01_807Z-debug-0.log
