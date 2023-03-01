@@ -1,6 +1,6 @@
 {
   "name": "react-native-finger-library",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -41,7 +41,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/megabeehothanhminh/react-native-finger-library",
+  "repository": "https://github.com/megabeehothanhminh/react-native-finger-library.git",
   "author": "Thanh Minh <megabee.hothanhminh@gmail.com> (https://github.com/megabeehothanhminh)",
   "license": "MIT",
   "bugs": {

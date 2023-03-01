@@ -8,6 +8,8 @@ finger-sdk
 npm install react-native-finger-library
 ```
 
+![alt text](https://github.com/megabeehothanhminh/react-native-finger-library/blob/master/image_device.jpeg?raw=true)
+
 ## Usage
 
 ```js
